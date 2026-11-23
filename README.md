@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px" />
+**# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px" />
 
 My name is **Masih Ghasri** and I'm a **DevOps & Infrastructure Engineer**. I specialize in distributed storage architectures, high-concurrency backend services in Go, and production-grade cloud automation.
 
@@ -75,3 +75,4 @@ I am open to international contract engagements, technical infrastructure adviso
 - **Email:** [ma.prog.salsa@gmail.com](mailto:ma.prog.salsa@gmail.com)
 - **Telegram:** [@Masih_Develop](https://t.me/Masih_Develop)
 - **Timezone:** Flexible overlap with UTC / CET business hours.
+**
