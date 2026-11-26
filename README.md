@@ -103,15 +103,17 @@
   </picture>
 </div>
 
+<div align="center">
 <table width="100%">
   <tr>
-    <td align="center" width="20%"><strong>Go</strong><br/><sub>88% of public code</sub></td>
-    <td align="center" width="20%"><strong>C</strong><br/><sub>7% of public code</sub></td>
-    <td align="center" width="20%"><strong>Python</strong><br/><sub>2% of public code</sub></td>
-    <td align="center" width="20%"><strong>Shell</strong><br/><sub>2% of public code</sub></td>
-    <td align="center" width="20%"><strong>Makefile</strong><br/><sub>1% of public code</sub></td>
+    <td align="center" valign="middle" width="20%"><strong>Go</strong><br/><sub>88% of code</sub></td>
+    <td align="center" valign="middle" width="20%"><strong>C</strong><br/><sub>7% of code</sub></td>
+    <td align="center" valign="middle" width="20%"><strong>Python</strong><br/><sub>2% of code</sub></td>
+    <td align="center" valign="middle" width="20%"><strong>Shell</strong><br/><sub>2% of code</sub></td>
+    <td align="center" valign="middle" width="20%"><strong>Makefile</strong><br/><sub>1% of code</sub></td>
   </tr>
 </table>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="20" alt="Linux" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="20" alt="Kubernetes" /> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" height="20" alt="ArgoCD" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" height="20" alt="Nginx" /> <img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white" height="20" alt="Ceph" /> <img src="https://img.shields.io/badge/SeaweedFS-1E88E5?style=flat-square&logo=databricks&logoColor=white" height="20" alt="SeaweedFS" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" height="20" alt="Kafka" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" height="20" alt="RabbitMQ" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="20" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="20" alt="Redis" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="20" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="20" alt="Grafana" /> <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black" height="20" alt="Jaeger" /> <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white" height="20" alt="ELK" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="20" alt="n8n" />
@@ -131,17 +133,19 @@
 
 ---
 
+<div align="center">
 <table width="100%">
   <tr>
-    <td width="60%" valign="middle">
+    <td width="60%" align="center" valign="middle">
       <h3>Let’s build reliable systems together</h3>
-      <sub>Open to DevOps, Cloud Infrastructure, and Go Backend opportunities.</sub>
+      <sub>Open to DevOps, Cloud Infrastructure &amp; Go Backend roles.</sub>
     </td>
-    <td width="40%" align="right" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <a href="mailto:ma.prog.salsa@gmail.com"><img src="https://img.shields.io/badge/Email-2bbc8a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
       <a href="https://t.me/Masih_Develop"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
     </td>
   </tr>
 </table>
+</div>
 
 <p align="center"><sub>Masih Ghasri · DevOps &amp; Infrastructure Engineer</sub></p>
